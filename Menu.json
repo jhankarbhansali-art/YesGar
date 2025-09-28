@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paneer Tikka",
+    "description": "Grilled cottage cheese cubes marinated in spices.",
+    "price": "₹250"
+  },
+  {
+    "name": "Butter Chicken",
+    "description": "Classic North Indian butter chicken with creamy sauce.",
+    "price": "₹320"
+  },
+  {
+    "name": "Veg Biryani",
+    "description": "Aromatic basmati rice cooked with vegetables and spices.",
+    "price": "₹210"
+  }
+]
